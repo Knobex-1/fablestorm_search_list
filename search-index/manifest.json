@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-07T07:31:36.443681Z",
+  "languages": [
+    {
+      "code": "de",
+      "indexURL": "search-index/de/index.json",
+      "itemCount": 48,
+      "franchiseCandidateCount": 1,
+      "providerSearchTemplateCount": 1
+    }
+  ]
+}

@@ -1,0 +1,1326 @@
+{
+  "schemaVersion": 1,
+  "language": "de",
+  "updatedAt": "2026-07-07T07:31:36.443681Z",
+  "generatedFrom": {
+    "source": "remoteSearchIndex",
+    "catalogUpdatedAt": null
+  },
+  "items": [
+    {
+      "id": "album:mark-brandis-raumkadett-01",
+      "type": "album",
+      "title": "01: Aufbruch zu den Sternen",
+      "displayTitle": "Aufbruch zu den Sternen",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 1",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686299969"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686299969"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-01",
+      "type": "album",
+      "title": "01: Bordbuch Delta VII",
+      "displayTitle": "Bordbuch Delta VII",
+      "subtitle": "Mark Brandis · Folge 1",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686253520"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686253520"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-raumkadett-02",
+      "type": "album",
+      "title": "02: Verloren im All",
+      "displayTitle": "Verloren im All",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 2",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686295905"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686295905"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-02",
+      "type": "album",
+      "title": "02: Verrat auf der Venus",
+      "displayTitle": "Verrat auf der Venus",
+      "subtitle": "Mark Brandis · Folge 2",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686267253"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686267253"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-raumkadett-03",
+      "type": "album",
+      "title": "03: Tatort Astronautenschule",
+      "displayTitle": "Tatort Astronautenschule",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 3",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686317126"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686317126"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-03",
+      "type": "album",
+      "title": "03: Unternehmen Delphin",
+      "displayTitle": "Unternehmen Delphin",
+      "subtitle": "Mark Brandis · Folge 3",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686251357"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686251357"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-04",
+      "type": "album",
+      "title": "04: Aufstand der Roboter",
+      "displayTitle": "Aufstand der Roboter",
+      "subtitle": "Mark Brandis · Folge 4",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686282637"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686282637"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-raumkadett-04",
+      "type": "album",
+      "title": "04: Hinter den Linien",
+      "displayTitle": "Hinter den Linien",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 4",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686313198"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686313198"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-raumkadett-05",
+      "type": "album",
+      "title": "05: Der Aladin-Schachzug",
+      "displayTitle": "Der Aladin-Schachzug",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 5",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686294722"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686294722"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-05",
+      "type": "album",
+      "title": "05: Testakte Kolibri 1",
+      "displayTitle": "Testakte Kolibri 1",
+      "subtitle": "Mark Brandis · Folge 5",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686266312"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686266312"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-06",
+      "type": "album",
+      "title": "06: Testakte Kolibri 2",
+      "displayTitle": "Testakte Kolibri 2",
+      "subtitle": "Mark Brandis · Folge 6",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686252039"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686252039"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-raumkadett-06",
+      "type": "album",
+      "title": "06: Woran du glaubst ...",
+      "displayTitle": "Woran du glaubst ...",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 6",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686295917"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686295917"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-raumkadett-07",
+      "type": "album",
+      "title": "07: Laurin",
+      "displayTitle": "Laurin",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 7",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686317155"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686317155"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-07",
+      "type": "album",
+      "title": "07: Vorstoß zum Uranus 1",
+      "displayTitle": "Vorstoß zum Uranus 1",
+      "subtitle": "Mark Brandis · Folge 7",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686257088"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686257088"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-raumkadett-08",
+      "type": "album",
+      "title": "08: Mondschatten",
+      "displayTitle": "Mondschatten",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 8",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686322025"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686322025"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-08",
+      "type": "album",
+      "title": "08: Vorstoß zum Uranus 2",
+      "displayTitle": "Vorstoß zum Uranus 2",
+      "subtitle": "Mark Brandis · Folge 8",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686281732"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686281732"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-raumkadett-09",
+      "type": "album",
+      "title": "09: Endstation Pallas",
+      "displayTitle": "Endstation Pallas",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 9",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686298483"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686298483"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-09",
+      "type": "album",
+      "title": "09: Raumsonde Epsilon 1",
+      "displayTitle": "Raumsonde Epsilon 1",
+      "subtitle": "Mark Brandis · Folge 9",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686257672"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686257672"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-10",
+      "type": "album",
+      "title": "10: Raumsonde Epsilon 2",
+      "displayTitle": "Raumsonde Epsilon 2",
+      "subtitle": "Mark Brandis · Folge 10",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686252099"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686252099"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-raumkadett-10",
+      "type": "album",
+      "title": "10: Zwischen den Fronten",
+      "displayTitle": "Zwischen den Fronten",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 10",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686299409"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686299409"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-raumkadett-11",
+      "type": "album",
+      "title": "11: Das Jupiter-Risiko",
+      "displayTitle": "Das Jupiter-Risiko",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 11",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686316969"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686316969"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-11",
+      "type": "album",
+      "title": "11: Die Vollstrecker 1",
+      "displayTitle": "Die Vollstrecker 1",
+      "subtitle": "Mark Brandis · Folge 11",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686253055"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686253055"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-raumkadett-12",
+      "type": "album",
+      "title": "12: Der Fall Rublew",
+      "displayTitle": "Der Fall Rublew",
+      "subtitle": "Mark Brandis - Raumkadett · Folge 12",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis-raumkadett",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686200342"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686200342"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-12",
+      "type": "album",
+      "title": "12: Die Vollstrecker 2",
+      "displayTitle": "Die Vollstrecker 2",
+      "subtitle": "Mark Brandis · Folge 12",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686282930"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686282930"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-13",
+      "type": "album",
+      "title": "13: Pilgrim 2000 1",
+      "displayTitle": "Pilgrim 2000 1",
+      "subtitle": "Mark Brandis · Folge 13",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686248241"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686248241"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-14",
+      "type": "album",
+      "title": "14: Pilgrim 2000 2",
+      "displayTitle": "Pilgrim 2000 2",
+      "subtitle": "Mark Brandis · Folge 14",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686257090"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686257090"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-15",
+      "type": "album",
+      "title": "15: Aktenzeichen: Illegal",
+      "displayTitle": "Aktenzeichen: Illegal",
+      "subtitle": "Mark Brandis · Folge 15",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686291845"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686291845"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-16",
+      "type": "album",
+      "title": "16: Operation Sonnenfracht",
+      "displayTitle": "Operation Sonnenfracht",
+      "subtitle": "Mark Brandis · Folge 16",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686255457"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686255457"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-17",
+      "type": "album",
+      "title": "17: Alarm für die Erde 1",
+      "displayTitle": "Alarm für die Erde 1",
+      "subtitle": "Mark Brandis · Folge 17",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686270493"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686270493"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-18",
+      "type": "album",
+      "title": "18: Alarm für die Erde 2",
+      "displayTitle": "Alarm für die Erde 2",
+      "subtitle": "Mark Brandis · Folge 18",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686293748"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686293748"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-19",
+      "type": "album",
+      "title": "19: Sirius-Patrouille 1",
+      "displayTitle": "Sirius-Patrouille 1",
+      "subtitle": "Mark Brandis · Folge 19",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686297004"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686297004"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-20",
+      "type": "album",
+      "title": "20: Sirius-Patrouille 2",
+      "displayTitle": "Sirius-Patrouille 2",
+      "subtitle": "Mark Brandis · Folge 20",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686249720"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686249720"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-21",
+      "type": "album",
+      "title": "21: Lautlose Bombe 1",
+      "displayTitle": "Lautlose Bombe 1",
+      "subtitle": "Mark Brandis · Folge 21",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686286977"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686286977"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-22",
+      "type": "album",
+      "title": "22: Lautlose Bombe 2",
+      "displayTitle": "Lautlose Bombe 2",
+      "subtitle": "Mark Brandis · Folge 22",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686254040"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686254040"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-23",
+      "type": "album",
+      "title": "23: Triton-Passage",
+      "displayTitle": "Triton-Passage",
+      "subtitle": "Mark Brandis · Folge 23",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686256239"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686256239"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-24",
+      "type": "album",
+      "title": "24: Blindflug zur Schlange",
+      "displayTitle": "Blindflug zur Schlange",
+      "subtitle": "Mark Brandis · Folge 24",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686253451"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686253451"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-25",
+      "type": "album",
+      "title": "25: Raumposition Oberon",
+      "displayTitle": "Raumposition Oberon",
+      "subtitle": "Mark Brandis · Folge 25",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686271659"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686271659"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-26",
+      "type": "album",
+      "title": "26: Ikarus, Ikarus...",
+      "displayTitle": "Ikarus, Ikarus...",
+      "subtitle": "Mark Brandis · Folge 26",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686251045"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686251045"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-27",
+      "type": "album",
+      "title": "27: Metropolis-Konvoi",
+      "displayTitle": "Metropolis-Konvoi",
+      "subtitle": "Mark Brandis · Folge 27",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686251065"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686251065"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-1453153265",
+      "type": "album",
+      "title": "28 + 29: Die Zeitspule",
+      "displayTitle": "28 + 29: Die Zeitspule",
+      "subtitle": "Mark Brandis",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1453153265"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1453153265"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-28",
+      "type": "album",
+      "title": "28: Die Zeitspule 1",
+      "displayTitle": "Die Zeitspule 1",
+      "subtitle": "Mark Brandis · Folge 28",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686249593"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686249593"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-29",
+      "type": "album",
+      "title": "29: Die Zeitspule 2",
+      "displayTitle": "Die Zeitspule 2",
+      "subtitle": "Mark Brandis · Folge 29",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686285503"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686285503"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-30",
+      "type": "album",
+      "title": "30: Planetaktion Z",
+      "displayTitle": "Planetaktion Z",
+      "subtitle": "Mark Brandis · Folge 30",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686876360"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686876360"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-31",
+      "type": "album",
+      "title": "31: Geheimsache Wetterhahn",
+      "displayTitle": "Geheimsache Wetterhahn",
+      "subtitle": "Mark Brandis · Folge 31",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686269896"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686269896"
+        }
+      ]
+    },
+    {
+      "id": "album:mark-brandis-32",
+      "type": "album",
+      "title": "32: Der Pandora-Zwischenfall",
+      "displayTitle": "Der Pandora-Zwischenfall",
+      "subtitle": "Mark Brandis · Folge 32",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:mark-brandis",
+      "mainSeriesId": "series:mark-brandis",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1686285288"
+        },
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "1686285288"
+        }
+      ]
+    },
+    {
+      "id": "franchise:mark-brandis",
+      "type": "franchise",
+      "title": "Mark Brandis",
+      "displayTitle": "Mark Brandis Universum",
+      "subtitle": "Science-Fiction-Hörwelt",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "mainSeriesId": "series:mark-brandis",
+      "children": [
+        {
+          "id": "series:mark-brandis",
+          "title": "Mark Brandis",
+          "role": "mainSeries",
+          "albumCount": 33
+        },
+        {
+          "id": "series:mark-brandis-raumkadett",
+          "title": "Mark Brandis - Raumkadett",
+          "role": "subSeries",
+          "albumCount": 12
+        }
+      ],
+      "seriesCount": 2,
+      "albumCount": 45,
+      "sources": [
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": null
+        }
+      ]
+    },
+    {
+      "id": "series:mark-brandis",
+      "type": "series",
+      "title": "Mark Brandis",
+      "displayTitle": "Mark Brandis",
+      "subtitle": "Hauptreihe",
+      "author": "Mark Brandis",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "franchise": {
+        "id": "franchise:mark-brandis",
+        "title": "Mark Brandis",
+        "role": "mainSeries",
+        "mainSeriesId": "series:mark-brandis"
+      },
+      "mainSeriesId": "series:mark-brandis",
+      "subSeriesOf": null,
+      "albumCount": 33,
+      "detailPath": "catalog/de/series/mark-brandis.json",
+      "sources": [
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "mark-brandis"
+        }
+      ]
+    },
+    {
+      "id": "series:mark-brandis-raumkadett",
+      "type": "series",
+      "title": "Mark Brandis - Raumkadett",
+      "displayTitle": "Mark Brandis - Raumkadett",
+      "subtitle": "Unterreihe",
+      "author": "Nikolai von Michalewsky",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Science-Fiction"
+      ],
+      "franchise": {
+        "id": "franchise:mark-brandis",
+        "title": "Mark Brandis",
+        "role": "subSeries",
+        "mainSeriesId": "series:mark-brandis"
+      },
+      "mainSeriesId": "series:mark-brandis",
+      "subSeriesOf": "series:mark-brandis",
+      "albumCount": 12,
+      "detailPath": "catalog/de/series/mark-brandis-raumkadett.json",
+      "sources": [
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": "mark-brandis-raumkadett"
+        }
+      ]
+    }
+  ],
+  "automationHints": {
+    "franchiseCandidates": [
+      {
+        "franchiseID": "franchise:mark-brandis",
+        "title": "Mark Brandis",
+        "mainSeriesId": "series:mark-brandis",
+        "childSeriesIds": [
+          "series:mark-brandis-raumkadett",
+          "series:mark-brandis"
+        ],
+        "aliases": [
+          "Bordbuch Delta VII",
+          "Mark Brandis",
+          "Mark Brandis - Raumkadett",
+          "Mark Brandis Raumkadett"
+        ],
+        "rejectAsOwnFranchiseIfOnlyOneSeries": true
+      }
+    ],
+    "providerSearchTemplates": [
+      {
+        "id": "mark-brandis-next-episode",
+        "title": "Nächste Mark-Brandis-Folge suchen",
+        "queryTemplates": [
+          "{seriesTitle} Folge {nextEpisode}",
+          "{seriesTitle} neue Folge",
+          "Mark Brandis Hörspiel neue Folge"
+        ],
+        "targetFranchiseID": "franchise:mark-brandis",
+        "targetSubSeriesID": null,
+        "providerIDs": [
+          "appleMusic",
+          "spotify"
+        ],
+        "minimumConfidence": 0.85
+      }
+    ]
+  }
+}
