@@ -1,0 +1,17 @@
+{
+  "albums": [],
+  "series": {
+    "albumCount": 0,
+    "author": "",
+    "canonicalKey": "perry-rhodan",
+    "detailPath": "catalog/de/series/perry-rhodan.json",
+    "displayTitle": "Perry Rhodan",
+    "franchise": "perry-rhodan",
+    "franchiseRole": "mainSeries",
+    "id": "perry-rhodan",
+    "language": "de",
+    "status": "approved",
+    "subSeriesOf": null,
+    "title": "Perry Rhodan"
+  }
+}

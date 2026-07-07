@@ -1,0 +1,90 @@
+{
+  "franchises": [
+    {
+      "canonicalKey": "commander-perkins",
+      "displayTitle": "Commander Perkins",
+      "id": "commander-perkins",
+      "language": "de",
+      "mainSeries": "commander-perkins",
+      "status": "approved",
+      "title": "Commander Perkins"
+    },
+    {
+      "canonicalKey": "mark-brandis",
+      "displayTitle": "Mark Brandis Universum",
+      "id": "mark-brandis",
+      "language": "de",
+      "mainSeries": "mark-brandis",
+      "status": "approved",
+      "title": "Mark Brandis"
+    },
+    {
+      "canonicalKey": "perry-rhodan",
+      "displayTitle": "Perry Rhodan",
+      "id": "perry-rhodan",
+      "language": "de",
+      "mainSeries": "perry-rhodan",
+      "status": "approved",
+      "title": "Perry Rhodan"
+    }
+  ],
+  "language": "de",
+  "series": [
+    {
+      "albumCount": 9,
+      "author": "",
+      "canonicalKey": "commander-perkins",
+      "detailPath": "catalog/de/series/commander-perkins.json",
+      "displayTitle": "Commander Perkins",
+      "franchise": "commander-perkins",
+      "franchiseRole": "mainSeries",
+      "id": "commander-perkins",
+      "language": "de",
+      "status": "approved",
+      "subSeriesOf": null,
+      "title": "Commander Perkins"
+    },
+    {
+      "albumCount": 33,
+      "author": "Mark Brandis",
+      "canonicalKey": "mark-brandis",
+      "detailPath": "catalog/de/series/mark-brandis.json",
+      "displayTitle": "Mark Brandis",
+      "franchise": "mark-brandis",
+      "franchiseRole": "mainSeries",
+      "id": "mark-brandis",
+      "language": "de",
+      "status": "approved",
+      "subSeriesOf": null,
+      "title": "Mark Brandis"
+    },
+    {
+      "albumCount": 12,
+      "author": "Nikolai von Michalewsky",
+      "canonicalKey": "mark-brandis-raumkadett",
+      "detailPath": "catalog/de/series/mark-brandis-raumkadett.json",
+      "displayTitle": "Mark Brandis - Raumkadett",
+      "franchise": "mark-brandis",
+      "franchiseRole": "subSeries",
+      "id": "mark-brandis-raumkadett",
+      "language": "de",
+      "status": "approved",
+      "subSeriesOf": "mark-brandis",
+      "title": "Mark Brandis - Raumkadett"
+    },
+    {
+      "albumCount": 0,
+      "author": "",
+      "canonicalKey": "perry-rhodan",
+      "detailPath": "catalog/de/series/perry-rhodan.json",
+      "displayTitle": "Perry Rhodan",
+      "franchise": "perry-rhodan",
+      "franchiseRole": "mainSeries",
+      "id": "perry-rhodan",
+      "language": "de",
+      "status": "approved",
+      "subSeriesOf": null,
+      "title": "Perry Rhodan"
+    }
+  ]
+}

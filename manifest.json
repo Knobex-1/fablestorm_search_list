@@ -1,0 +1,9 @@
+{
+  "catalogs": {
+    "de": "catalog/de/index.json"
+  },
+  "languages": [
+    "de"
+  ],
+  "version": 1
+}
