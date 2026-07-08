@@ -26,13 +26,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686299969"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686299969"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 1,
+      "sortIndex": 1
     },
     {
       "id": "album:mark-brandis-01",
@@ -52,13 +53,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686253520"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686253520"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 1,
+      "sortIndex": 1
     },
     {
       "id": "album:mark-brandis-raumkadett-02",
@@ -79,13 +81,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686295905"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686295905"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 2,
+      "sortIndex": 2
     },
     {
       "id": "album:mark-brandis-02",
@@ -105,13 +108,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686267253"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686267253"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 2,
+      "sortIndex": 2
     },
     {
       "id": "album:mark-brandis-raumkadett-03",
@@ -132,13 +136,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686317126"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686317126"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 3,
+      "sortIndex": 3
     },
     {
       "id": "album:mark-brandis-03",
@@ -158,13 +163,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686251357"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686251357"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 3,
+      "sortIndex": 3
     },
     {
       "id": "album:mark-brandis-04",
@@ -184,13 +190,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686282637"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686282637"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 4,
+      "sortIndex": 4
     },
     {
       "id": "album:mark-brandis-raumkadett-04",
@@ -211,13 +218,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686313198"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686313198"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 4,
+      "sortIndex": 4
     },
     {
       "id": "album:mark-brandis-raumkadett-05",
@@ -238,13 +246,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686294722"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686294722"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 5,
+      "sortIndex": 5
     },
     {
       "id": "album:mark-brandis-05",
@@ -264,13 +273,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686266312"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686266312"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 5,
+      "sortIndex": 5
     },
     {
       "id": "album:mark-brandis-06",
@@ -290,13 +300,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686252039"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686252039"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 6,
+      "sortIndex": 6
     },
     {
       "id": "album:mark-brandis-raumkadett-06",
@@ -317,13 +328,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686295917"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686295917"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 6,
+      "sortIndex": 6
     },
     {
       "id": "album:mark-brandis-raumkadett-07",
@@ -344,13 +356,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686317155"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686317155"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 7,
+      "sortIndex": 7
     },
     {
       "id": "album:mark-brandis-07",
@@ -370,13 +383,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686257088"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686257088"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 7,
+      "sortIndex": 7
     },
     {
       "id": "album:mark-brandis-raumkadett-08",
@@ -397,13 +411,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686322025"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686322025"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 8,
+      "sortIndex": 8
     },
     {
       "id": "album:mark-brandis-08",
@@ -423,13 +438,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686281732"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686281732"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 8,
+      "sortIndex": 8
     },
     {
       "id": "album:mark-brandis-raumkadett-09",
@@ -450,13 +466,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686298483"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686298483"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 9,
+      "sortIndex": 9
     },
     {
       "id": "album:mark-brandis-09",
@@ -476,13 +493,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686257672"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686257672"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 9,
+      "sortIndex": 9
     },
     {
       "id": "album:mark-brandis-10",
@@ -502,13 +520,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686252099"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686252099"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 10,
+      "sortIndex": 10
     },
     {
       "id": "album:mark-brandis-raumkadett-10",
@@ -529,13 +548,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686299409"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686299409"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 10,
+      "sortIndex": 10
     },
     {
       "id": "album:mark-brandis-raumkadett-11",
@@ -556,13 +576,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686316969"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686316969"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 11,
+      "sortIndex": 11
     },
     {
       "id": "album:mark-brandis-11",
@@ -582,13 +603,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686253055"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686253055"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 11,
+      "sortIndex": 11
     },
     {
       "id": "album:mark-brandis-raumkadett-12",
@@ -609,13 +631,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686200342"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686200342"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 12,
+      "sortIndex": 12
     },
     {
       "id": "album:mark-brandis-12",
@@ -635,13 +658,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686282930"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686282930"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 12,
+      "sortIndex": 12
     },
     {
       "id": "album:mark-brandis-13",
@@ -661,13 +685,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686248241"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686248241"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 13,
+      "sortIndex": 13
     },
     {
       "id": "album:mark-brandis-14",
@@ -687,13 +712,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686257090"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686257090"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 14,
+      "sortIndex": 14
     },
     {
       "id": "album:mark-brandis-15",
@@ -713,13 +739,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686291845"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686291845"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 15,
+      "sortIndex": 15
     },
     {
       "id": "album:mark-brandis-16",
@@ -739,13 +766,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686255457"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686255457"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 16,
+      "sortIndex": 16
     },
     {
       "id": "album:mark-brandis-17",
@@ -765,13 +793,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686270493"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686270493"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 17,
+      "sortIndex": 17
     },
     {
       "id": "album:mark-brandis-18",
@@ -791,13 +820,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686293748"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686293748"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 18,
+      "sortIndex": 18
     },
     {
       "id": "album:mark-brandis-19",
@@ -817,13 +847,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686297004"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686297004"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 19,
+      "sortIndex": 19
     },
     {
       "id": "album:mark-brandis-20",
@@ -843,13 +874,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686249720"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686249720"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 20,
+      "sortIndex": 20
     },
     {
       "id": "album:mark-brandis-21",
@@ -869,13 +901,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686286977"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686286977"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 21,
+      "sortIndex": 21
     },
     {
       "id": "album:mark-brandis-22",
@@ -895,13 +928,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686254040"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686254040"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 22,
+      "sortIndex": 22
     },
     {
       "id": "album:mark-brandis-23",
@@ -921,13 +955,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686256239"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686256239"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 23,
+      "sortIndex": 23
     },
     {
       "id": "album:mark-brandis-24",
@@ -947,13 +982,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686253451"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686253451"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 24,
+      "sortIndex": 24
     },
     {
       "id": "album:mark-brandis-25",
@@ -973,13 +1009,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686271659"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686271659"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 25,
+      "sortIndex": 25
     },
     {
       "id": "album:mark-brandis-26",
@@ -999,13 +1036,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686251045"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686251045"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 26,
+      "sortIndex": 26
     },
     {
       "id": "album:mark-brandis-27",
@@ -1025,13 +1063,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686251065"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686251065"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 27,
+      "sortIndex": 27
     },
     {
       "id": "album:mark-brandis-1453153265",
@@ -1051,13 +1090,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1453153265"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1453153265"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 1453153265,
+      "sortIndex": 1453153265
     },
     {
       "id": "album:mark-brandis-28",
@@ -1077,13 +1117,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686249593"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686249593"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 28,
+      "sortIndex": 28
     },
     {
       "id": "album:mark-brandis-29",
@@ -1103,13 +1144,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686285503"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686285503"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 29,
+      "sortIndex": 29
     },
     {
       "id": "album:mark-brandis-30",
@@ -1129,13 +1171,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686876360"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686876360"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 30,
+      "sortIndex": 30
     },
     {
       "id": "album:mark-brandis-31",
@@ -1155,13 +1198,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686269896"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686269896"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 31,
+      "sortIndex": 31
     },
     {
       "id": "album:mark-brandis-32",
@@ -1181,13 +1225,14 @@
           "providerID": "appleMusic",
           "displayName": "Apple Music",
           "externalID": "1686285288"
-        },
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "1686285288"
         }
-      ]
+      ],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "episodeNumber": 32,
+      "sortIndex": 32
     },
     {
       "id": "franchise:mark-brandis",
@@ -1217,12 +1262,13 @@
       ],
       "seriesCount": 2,
       "albumCount": 45,
-      "sources": [
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": null
-        }
+      "sources": [],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      },
+      "childSeriesIds": [
+        "series:mark-brandis-raumkadett"
       ]
     },
     {
@@ -1246,13 +1292,11 @@
       "subSeriesOf": null,
       "albumCount": 33,
       "detailPath": "catalog/de/series/mark-brandis.json",
-      "sources": [
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "mark-brandis"
-        }
-      ]
+      "sources": [],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      }
     },
     {
       "id": "series:mark-brandis-raumkadett",
@@ -1276,13 +1320,11 @@
       "subSeriesOf": "series:mark-brandis",
       "albumCount": 12,
       "detailPath": "catalog/de/series/mark-brandis-raumkadett.json",
-      "sources": [
-        {
-          "providerID": "githubCatalog",
-          "displayName": "GitHub Catalog",
-          "externalID": "mark-brandis-raumkadett"
-        }
-      ]
+      "sources": [],
+      "origin": {
+        "catalogID": "fablestorm_search_list",
+        "type": "searchIndex"
+      }
     }
   ],
   "automationHints": {
@@ -1292,8 +1334,7 @@
         "title": "Mark Brandis",
         "mainSeriesId": "series:mark-brandis",
         "childSeriesIds": [
-          "series:mark-brandis-raumkadett",
-          "series:mark-brandis"
+          "series:mark-brandis-raumkadett"
         ],
         "aliases": [
           "Bordbuch Delta VII",
