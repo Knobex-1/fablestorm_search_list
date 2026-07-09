@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "de",
-  "updatedAt": "2026-07-09T07:15:56.262058Z",
+  "updatedAt": "2026-07-09T10:03:35.576087Z",
   "generatedFrom": {
     "source": "remoteSearchIndex",
     "catalogUpdatedAt": null
@@ -1252,6 +1252,1639 @@
       ]
     },
     {
+      "id": "album:infinity-10",
+      "type": "album",
+      "title": "Episode 10: Skorpion",
+      "displayTitle": "Episode 10: Skorpion",
+      "subtitle": "Infinity · Folge 10",
+      "author": "Infinity",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:infinity",
+      "mainSeriesId": "series:infinity",
+      "episodeNumber": 10,
+      "sortIndex": 10,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1785715252"
+        }
+      ]
+    },
+    {
+      "id": "album:infinity-01",
+      "type": "album",
+      "title": "Episode 1: Erstschlag I Drei Atomsprengköpfe",
+      "displayTitle": "Episode 1: Erstschlag I Drei Atomsprengköpfe",
+      "subtitle": "Infinity · Folge 1",
+      "author": "Infinity",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:infinity",
+      "mainSeriesId": "series:infinity",
+      "episodeNumber": 1,
+      "sortIndex": 1,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1739097462"
+        }
+      ]
+    },
+    {
+      "id": "album:infinity-02",
+      "type": "album",
+      "title": "Episode 2: Erstschlag II Die Antarktis-Basis",
+      "displayTitle": "Episode 2: Erstschlag II Die Antarktis-Basis",
+      "subtitle": "Infinity · Folge 2",
+      "author": "Infinity",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:infinity",
+      "mainSeriesId": "series:infinity",
+      "episodeNumber": 2,
+      "sortIndex": 2,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1740080878"
+        }
+      ]
+    },
+    {
+      "id": "album:infinity-03",
+      "type": "album",
+      "title": "Episode 3: Erstschlag III Hetzjagd am Himmel",
+      "displayTitle": "Episode 3: Erstschlag III Hetzjagd am Himmel",
+      "subtitle": "Infinity · Folge 3",
+      "author": "Infinity",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:infinity",
+      "mainSeriesId": "series:infinity",
+      "episodeNumber": 3,
+      "sortIndex": 3,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1751234734"
+        }
+      ]
+    },
+    {
+      "id": "album:infinity-04",
+      "type": "album",
+      "title": "Episode 4: Umsturz I Die einsame Kriegerin",
+      "displayTitle": "Episode 4: Umsturz I Die einsame Kriegerin",
+      "subtitle": "Infinity · Folge 4",
+      "author": "Infinity",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:infinity",
+      "mainSeriesId": "series:infinity",
+      "episodeNumber": 4,
+      "sortIndex": 4,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1753852482"
+        }
+      ]
+    },
+    {
+      "id": "album:infinity-05",
+      "type": "album",
+      "title": "Episode 5: Umsturz II Schlacht um Dschahur",
+      "displayTitle": "Episode 5: Umsturz II Schlacht um Dschahur",
+      "subtitle": "Infinity · Folge 5",
+      "author": "Infinity",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:infinity",
+      "mainSeriesId": "series:infinity",
+      "episodeNumber": 5,
+      "sortIndex": 5,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1757422832"
+        }
+      ]
+    },
+    {
+      "id": "album:infinity-06",
+      "type": "album",
+      "title": "Episode 6: Anarchie",
+      "displayTitle": "Episode 6: Anarchie",
+      "subtitle": "Infinity · Folge 6",
+      "author": "Infinity",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:infinity",
+      "mainSeriesId": "series:infinity",
+      "episodeNumber": 6,
+      "sortIndex": 6,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1764889230"
+        }
+      ]
+    },
+    {
+      "id": "album:infinity-07",
+      "type": "album",
+      "title": "Episode 7: Menschenjagd",
+      "displayTitle": "Episode 7: Menschenjagd",
+      "subtitle": "Infinity · Folge 7",
+      "author": "Infinity",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:infinity",
+      "mainSeriesId": "series:infinity",
+      "episodeNumber": 7,
+      "sortIndex": 7,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1771460644"
+        }
+      ]
+    },
+    {
+      "id": "album:infinity-08",
+      "type": "album",
+      "title": "Episode 8: Omega I (Die Weltraum-Waffe)",
+      "displayTitle": "Episode 8: Omega I (Die Weltraum-Waffe)",
+      "subtitle": "Infinity · Folge 8",
+      "author": "Infinity",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:infinity",
+      "mainSeriesId": "series:infinity",
+      "episodeNumber": 8,
+      "sortIndex": 8,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1776665485"
+        }
+      ]
+    },
+    {
+      "id": "album:infinity-09",
+      "type": "album",
+      "title": "Episode 9: Omega II - Im Schatten der Apokalypse",
+      "displayTitle": "Episode 9: Omega II - Im Schatten der Apokalypse",
+      "subtitle": "Infinity · Folge 9",
+      "author": "Infinity",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:infinity",
+      "mainSeriesId": "series:infinity",
+      "episodeNumber": 9,
+      "sortIndex": 9,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1785717257"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-01",
+      "type": "album",
+      "title": "Folge 1 - Die Entdeckung",
+      "displayTitle": "Folge 1 - Die Entdeckung",
+      "subtitle": "Neue Welten · Folge 1",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 1,
+      "sortIndex": 1,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1685343063"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-10",
+      "type": "album",
+      "title": "Folge 10 - Sternenkind",
+      "displayTitle": "Folge 10 - Sternenkind",
+      "subtitle": "Neue Welten · Folge 10",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 10,
+      "sortIndex": 10,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1700539379"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-10",
+      "type": "album",
+      "title": "Folge 10: Die Nacht der Verschwörer",
+      "displayTitle": "Folge 10: Die Nacht der Verschwörer",
+      "subtitle": "Fraktal · Folge 10",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 10,
+      "sortIndex": 10,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499107765"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-10",
+      "type": "album",
+      "title": "Folge 10: Zwischen Himmel und Hölle",
+      "displayTitle": "Folge 10: Zwischen Himmel und Hölle",
+      "subtitle": "Heliosphere 2265 · Folge 10",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 10,
+      "sortIndex": 10,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1458719089"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-11",
+      "type": "album",
+      "title": "Folge 11: Krieger des Taroximperiums",
+      "displayTitle": "Folge 11: Krieger des Taroximperiums",
+      "subtitle": "Fraktal · Folge 11",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 11,
+      "sortIndex": 11,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499110530"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-11",
+      "type": "album",
+      "title": "Folge 11: New Generation Antimaterie",
+      "displayTitle": "Folge 11: New Generation Antimaterie",
+      "subtitle": "Neue Welten · Folge 11",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 11,
+      "sortIndex": 11,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1796805137"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-11",
+      "type": "album",
+      "title": "Folge 11: Vergeltung",
+      "displayTitle": "Folge 11: Vergeltung",
+      "subtitle": "Heliosphere 2265 · Folge 11",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 11,
+      "sortIndex": 11,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1461336819"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-12",
+      "type": "album",
+      "title": "Folge 12.1: Der Jahrhundertplan: Sarahs Geständnis",
+      "displayTitle": "Folge 12.1: Der Jahrhundertplan: Sarahs Geständnis",
+      "subtitle": "Heliosphere 2265 · Folge 12",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 12,
+      "sortIndex": 12,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1472538314"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-12",
+      "type": "album",
+      "title": "Folge 12: Kieron",
+      "displayTitle": "Folge 12: Kieron",
+      "subtitle": "Fraktal · Folge 12",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 12,
+      "sortIndex": 12,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499111467"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-13",
+      "type": "album",
+      "title": "Folge 13: Die Station im Eis",
+      "displayTitle": "Folge 13: Die Station im Eis",
+      "subtitle": "Fraktal · Folge 13",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 13,
+      "sortIndex": 13,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1507178071"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-13",
+      "type": "album",
+      "title": "Folge 13: Die andere Seite",
+      "displayTitle": "Folge 13: Die andere Seite",
+      "subtitle": "Heliosphere 2265 · Folge 13",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 13,
+      "sortIndex": 13,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1576496844"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-14",
+      "type": "album",
+      "title": "Folge 14: Das erste Ziel",
+      "displayTitle": "Folge 14: Das erste Ziel",
+      "subtitle": "Heliosphere 2265 · Folge 14",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 14,
+      "sortIndex": 14,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1576497487"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-14",
+      "type": "album",
+      "title": "Folge 14: Ultimatum",
+      "displayTitle": "Folge 14: Ultimatum",
+      "subtitle": "Fraktal · Folge 14",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 14,
+      "sortIndex": 14,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1517166223"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-15",
+      "type": "album",
+      "title": "Folge 15: Die Büchse der Pandora",
+      "displayTitle": "Folge 15: Die Büchse der Pandora",
+      "subtitle": "Heliosphere 2265 · Folge 15",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 15,
+      "sortIndex": 15,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1600501267"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-15",
+      "type": "album",
+      "title": "Folge 15: Unter Feinden",
+      "displayTitle": "Folge 15: Unter Feinden",
+      "subtitle": "Fraktal · Folge 15",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 15,
+      "sortIndex": 15,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1528458882"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-16",
+      "type": "album",
+      "title": "Folge 16: Der Schleier fällt",
+      "displayTitle": "Folge 16: Der Schleier fällt",
+      "subtitle": "Fraktal · Folge 16",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 16,
+      "sortIndex": 16,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1530813243"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-16",
+      "type": "album",
+      "title": "Folge 16: Freund oder Feind?",
+      "displayTitle": "Folge 16: Freund oder Feind?",
+      "subtitle": "Heliosphere 2265 · Folge 16",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 16,
+      "sortIndex": 16,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1610704001"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-17",
+      "type": "album",
+      "title": "Folge 17: Der ungebetene Gast",
+      "displayTitle": "Folge 17: Der ungebetene Gast",
+      "subtitle": "Fraktal · Folge 17",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 17,
+      "sortIndex": 17,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1539215497"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-17",
+      "type": "album",
+      "title": "Folge 17: Kampf um die Zukunft",
+      "displayTitle": "Folge 17: Kampf um die Zukunft",
+      "subtitle": "Heliosphere 2265 · Folge 17",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 17,
+      "sortIndex": 17,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1655639086"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-18",
+      "type": "album",
+      "title": "Folge 18: Die Wahl",
+      "displayTitle": "Folge 18: Die Wahl",
+      "subtitle": "Heliosphere 2265 · Folge 18",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 18,
+      "sortIndex": 18,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1680674602"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-19",
+      "type": "album",
+      "title": "Folge 19: Hetzjagd",
+      "displayTitle": "Folge 19: Hetzjagd",
+      "subtitle": "Heliosphere 2265 · Folge 19",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 19,
+      "sortIndex": 19,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1690147177"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-01",
+      "type": "album",
+      "title": "Folge 1: Das dunkle Fragment",
+      "displayTitle": "Folge 1: Das dunkle Fragment",
+      "subtitle": "Heliosphere 2265 · Folge 1",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 1,
+      "sortIndex": 1,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1460141226"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-01",
+      "type": "album",
+      "title": "Folge 1: Verloren im Mikrokosmos",
+      "displayTitle": "Folge 1: Verloren im Mikrokosmos",
+      "subtitle": "Fraktal · Folge 1",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 1,
+      "sortIndex": 1,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499097215"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-20",
+      "type": "album",
+      "title": "Folge 20: Im Zentrum der Dunkelheit",
+      "displayTitle": "Folge 20: Im Zentrum der Dunkelheit",
+      "subtitle": "Heliosphere 2265 · Folge 20",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 20,
+      "sortIndex": 20,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1706885850"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-21",
+      "type": "album",
+      "title": "Folge 21: Ohne Ausweg",
+      "displayTitle": "Folge 21: Ohne Ausweg",
+      "subtitle": "Heliosphere 2265 · Folge 21",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 21,
+      "sortIndex": 21,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1725804629"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-22",
+      "type": "album",
+      "title": "Folge 22: Heimkehr",
+      "displayTitle": "Folge 22: Heimkehr",
+      "subtitle": "Heliosphere 2265 · Folge 22",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 22,
+      "sortIndex": 22,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1740078182"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-23",
+      "type": "album",
+      "title": "Folge 23: Das Helix-Mosaik",
+      "displayTitle": "Folge 23: Das Helix-Mosaik",
+      "subtitle": "Heliosphere 2265 · Folge 23",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 23,
+      "sortIndex": 23,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1753852716"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-24",
+      "type": "album",
+      "title": "Folge 24.1: Endspiel",
+      "displayTitle": "Folge 24.1: Endspiel",
+      "subtitle": "Heliosphere 2265 · Folge 24",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 24,
+      "sortIndex": 24,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1781883547"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-25",
+      "type": "album",
+      "title": "Folge 25: Die alte Macht",
+      "displayTitle": "Folge 25: Die alte Macht",
+      "subtitle": "Heliosphere 2265 · Folge 25",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 25,
+      "sortIndex": 25,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1826961093"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-26",
+      "type": "album",
+      "title": "Folge 26: Wir sind Legende",
+      "displayTitle": "Folge 26: Wir sind Legende",
+      "subtitle": "Heliosphere 2265 · Folge 26",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 26,
+      "sortIndex": 26,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1844290760"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-27",
+      "type": "album",
+      "title": "Folge 27: Der letzte Gefangene",
+      "displayTitle": "Folge 27: Der letzte Gefangene",
+      "subtitle": "Heliosphere 2265 · Folge 27",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 27,
+      "sortIndex": 27,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1861543152"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-28",
+      "type": "album",
+      "title": "Folge 28: Nemesis",
+      "displayTitle": "Folge 28: Nemesis",
+      "subtitle": "Heliosphere 2265 · Folge 28",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 28,
+      "sortIndex": 28,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1874107913"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-29",
+      "type": "album",
+      "title": "Folge 29: Projekt Northstar",
+      "displayTitle": "Folge 29: Projekt Northstar",
+      "subtitle": "Heliosphere 2265 · Folge 29",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 29,
+      "sortIndex": 29,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1884262987"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-02",
+      "type": "album",
+      "title": "Folge 2: Alarm auf dem Mond",
+      "displayTitle": "Folge 2: Alarm auf dem Mond",
+      "subtitle": "Neue Welten · Folge 2",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 2,
+      "sortIndex": 2,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1685302285"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-02",
+      "type": "album",
+      "title": "Folge 2: Sternenstaub",
+      "displayTitle": "Folge 2: Sternenstaub",
+      "subtitle": "Fraktal · Folge 2",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 2,
+      "sortIndex": 2,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499098438"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-02",
+      "type": "album",
+      "title": "Folge 2: Zwischen den Welten",
+      "displayTitle": "Folge 2: Zwischen den Welten",
+      "subtitle": "Heliosphere 2265 · Folge 2",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 2,
+      "sortIndex": 2,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1457671762"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-30",
+      "type": "album",
+      "title": "Folge 30: Aus dem Schatten...",
+      "displayTitle": "Folge 30: Aus dem Schatten...",
+      "subtitle": "Heliosphere 2265 · Folge 30",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 30,
+      "sortIndex": 30,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1895377194"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-31",
+      "type": "album",
+      "title": "Folge 31: ... In das Licht",
+      "displayTitle": "Folge 31: ... In das Licht",
+      "subtitle": "Heliosphere 2265 · Folge 31",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 31,
+      "sortIndex": 31,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "6779635691"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-03",
+      "type": "album",
+      "title": "Folge 3: Der Roboterkrieg",
+      "displayTitle": "Folge 3: Der Roboterkrieg",
+      "subtitle": "Neue Welten · Folge 3",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 3,
+      "sortIndex": 3,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1685300871"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-03",
+      "type": "album",
+      "title": "Folge 3: Enthüllungen",
+      "displayTitle": "Folge 3: Enthüllungen",
+      "subtitle": "Heliosphere 2265 · Folge 3",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 3,
+      "sortIndex": 3,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1458112950"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-03",
+      "type": "album",
+      "title": "Folge 3: Prähistorica",
+      "displayTitle": "Folge 3: Prähistorica",
+      "subtitle": "Fraktal · Folge 3",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 3,
+      "sortIndex": 3,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499098070"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-04",
+      "type": "album",
+      "title": "Folge 4: Das Gesicht des Verrats",
+      "displayTitle": "Folge 4: Das Gesicht des Verrats",
+      "subtitle": "Heliosphere 2265 · Folge 4",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 4,
+      "sortIndex": 4,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1458720334"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-04",
+      "type": "album",
+      "title": "Folge 4: Kontakt",
+      "displayTitle": "Folge 4: Kontakt",
+      "subtitle": "Fraktal · Folge 4",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 4,
+      "sortIndex": 4,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499101103"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-04",
+      "type": "album",
+      "title": "Folge 4: Unter Fremden",
+      "displayTitle": "Folge 4: Unter Fremden",
+      "subtitle": "Neue Welten · Folge 4",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 4,
+      "sortIndex": 4,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1685301217"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-05",
+      "type": "album",
+      "title": "Folge 5 - Himmelfahrtskommando",
+      "displayTitle": "Folge 5 - Himmelfahrtskommando",
+      "subtitle": "Neue Welten · Folge 5",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 5,
+      "sortIndex": 5,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1685300459"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-05",
+      "type": "album",
+      "title": "Folge 5: Im Zentrum der Gewalten",
+      "displayTitle": "Folge 5: Im Zentrum der Gewalten",
+      "subtitle": "Heliosphere 2265 · Folge 5",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 5,
+      "sortIndex": 5,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1458719889"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-05",
+      "type": "album",
+      "title": "Folge 5: Trojaner",
+      "displayTitle": "Folge 5: Trojaner",
+      "subtitle": "Fraktal · Folge 5",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 5,
+      "sortIndex": 5,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499101592"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-06",
+      "type": "album",
+      "title": "Folge 6: Der Schleier von Kintaru",
+      "displayTitle": "Folge 6: Der Schleier von Kintaru",
+      "subtitle": "Fraktal · Folge 6",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 6,
+      "sortIndex": 6,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499102938"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-06",
+      "type": "album",
+      "title": "Folge 6: Die Bürde des Captains",
+      "displayTitle": "Folge 6: Die Bürde des Captains",
+      "subtitle": "Heliosphere 2265 · Folge 6",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 6,
+      "sortIndex": 6,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1458719703"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-06",
+      "type": "album",
+      "title": "Folge 6: Portal des Todes",
+      "displayTitle": "Folge 6: Portal des Todes",
+      "subtitle": "Neue Welten · Folge 6",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 6,
+      "sortIndex": 6,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1685300103"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-07",
+      "type": "album",
+      "title": "Folge 7 - Unter der Oberfläche",
+      "displayTitle": "Folge 7 - Unter der Oberfläche",
+      "subtitle": "Neue Welten · Folge 7",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 7,
+      "sortIndex": 7,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1685365137"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-07",
+      "type": "album",
+      "title": "Folge 7: Die Opfer der Entscheidung",
+      "displayTitle": "Folge 7: Die Opfer der Entscheidung",
+      "subtitle": "Heliosphere 2265 · Folge 7",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 7,
+      "sortIndex": 7,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1458719296"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-07",
+      "type": "album",
+      "title": "Folge 7: Hinter dem Zaun",
+      "displayTitle": "Folge 7: Hinter dem Zaun",
+      "subtitle": "Fraktal · Folge 7",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 7,
+      "sortIndex": 7,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499103061"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-08",
+      "type": "album",
+      "title": "Folge 8 - Verloren in der Vergangenheit",
+      "displayTitle": "Folge 8 - Verloren in der Vergangenheit",
+      "subtitle": "Neue Welten · Folge 8",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 8,
+      "sortIndex": 8,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1677657231"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-08",
+      "type": "album",
+      "title": "Folge 8: Der leise Tod",
+      "displayTitle": "Folge 8: Der leise Tod",
+      "subtitle": "Fraktal · Folge 8",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 8,
+      "sortIndex": 8,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499104081"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-08",
+      "type": "album",
+      "title": "Folge 8: Getrennte Wege",
+      "displayTitle": "Folge 8: Getrennte Wege",
+      "subtitle": "Heliosphere 2265 · Folge 8",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 8,
+      "sortIndex": 8,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1458718812"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-09",
+      "type": "album",
+      "title": "Folge 9 - Richard Roosa",
+      "displayTitle": "Folge 9 - Richard Roosa",
+      "subtitle": "Neue Welten · Folge 9",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 9,
+      "sortIndex": 9,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1682933959"
+        }
+      ]
+    },
+    {
+      "id": "album:fraktal-09",
+      "type": "album",
+      "title": "Folge 9: Die Traummaschine",
+      "displayTitle": "Folge 9: Die Traummaschine",
+      "subtitle": "Fraktal · Folge 9",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:fraktal",
+      "mainSeriesId": "series:fraktal",
+      "episodeNumber": 9,
+      "sortIndex": 9,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1499106651"
+        }
+      ]
+    },
+    {
+      "id": "album:heliosphere-2265-09",
+      "type": "album",
+      "title": "Folge 9: Entscheidung bei NOVA",
+      "displayTitle": "Folge 9: Entscheidung bei NOVA",
+      "subtitle": "Heliosphere 2265 · Folge 9",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:heliosphere-2265",
+      "mainSeriesId": "series:heliosphere-2265",
+      "episodeNumber": 9,
+      "sortIndex": 9,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1458718930"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-12",
+      "type": "album",
+      "title": "Neue Welten Folge 12 - New Generation - Machtlos",
+      "displayTitle": "Neue Welten Folge 12 - New Generation - Machtlos",
+      "subtitle": "Neue Welten · Folge 12",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 12,
+      "sortIndex": 12,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1805130345"
+        }
+      ]
+    },
+    {
+      "id": "album:neue-welten-13",
+      "type": "album",
+      "title": "Neue Welten Folge 13 - New Generation - Das fehlende Puzzleteil",
+      "displayTitle": "Neue Welten Folge 13 - New Generation - Das fehlende Puzzleteil",
+      "subtitle": "Neue Welten · Folge 13",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "seriesId": "series:neue-welten",
+      "mainSeriesId": "series:neue-welten",
+      "episodeNumber": 13,
+      "sortIndex": 13,
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "1830625303"
+        }
+      ]
+    },
+    {
       "id": "franchise:mark-brandis",
       "type": "franchise",
       "title": "Mark Brandis",
@@ -1306,6 +2939,93 @@
       "albumCount": 0,
       "detailPath": "catalog/de/series/commander-perkins.json",
       "sources": []
+    },
+    {
+      "id": "series:fraktal",
+      "type": "series",
+      "title": "Fraktal",
+      "displayTitle": "Fraktal",
+      "subtitle": "17 Alben",
+      "author": "Fraktal",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "franchise": {
+        "id": "franchise:fraktal",
+        "title": "Fraktal",
+        "role": "mainSeries",
+        "mainSeriesId": "series:fraktal"
+      },
+      "mainSeriesId": "series:fraktal",
+      "subSeriesOf": null,
+      "albumCount": 17,
+      "detailPath": "catalog/de/series/fraktal.json",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "Fraktal"
+        }
+      ]
+    },
+    {
+      "id": "series:heliosphere-2265",
+      "type": "series",
+      "title": "Heliosphere 2265",
+      "displayTitle": "Heliosphere 2265",
+      "subtitle": "31 Alben",
+      "author": "Heliosphere 2265",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "franchise": {
+        "id": "franchise:heliosphere-2265",
+        "title": "Heliosphere 2265",
+        "role": "mainSeries",
+        "mainSeriesId": "series:heliosphere-2265"
+      },
+      "mainSeriesId": "series:heliosphere-2265",
+      "subSeriesOf": null,
+      "albumCount": 31,
+      "detailPath": "catalog/de/series/heliosphere-2265.json",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "Heliosphere 2265"
+        }
+      ]
+    },
+    {
+      "id": "series:infinity",
+      "type": "series",
+      "title": "Infinity",
+      "displayTitle": "Infinity",
+      "subtitle": "10 Alben",
+      "author": "Infinity",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "franchise": {
+        "id": "franchise:infinity",
+        "title": "Infinity",
+        "role": "mainSeries",
+        "mainSeriesId": "series:infinity"
+      },
+      "mainSeriesId": "series:infinity",
+      "subSeriesOf": null,
+      "albumCount": 10,
+      "detailPath": "catalog/de/series/infinity.json",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "Infinity"
+        }
+      ]
     },
     {
       "id": "series:mark-brandis",
@@ -1363,6 +3083,35 @@
           "providerID": "githubCatalog",
           "displayName": "GitHub Catalog",
           "externalID": "mark-brandis-raumkadett"
+        }
+      ]
+    },
+    {
+      "id": "series:neue-welten",
+      "type": "series",
+      "title": "Neue Welten",
+      "displayTitle": "Neue Welten",
+      "subtitle": "13 Alben",
+      "author": "Neue Welten",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "franchise": {
+        "id": "franchise:neue-welten",
+        "title": "Neue Welten",
+        "role": "mainSeries",
+        "mainSeriesId": "series:neue-welten"
+      },
+      "mainSeriesId": "series:neue-welten",
+      "subSeriesOf": null,
+      "albumCount": 13,
+      "detailPath": "catalog/de/series/neue-welten.json",
+      "sources": [
+        {
+          "providerID": "appleMusic",
+          "displayName": "Apple Music",
+          "externalID": "Neue Welten"
         }
       ]
     },
