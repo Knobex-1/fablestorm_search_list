@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "de",
-  "updatedAt": "2026-07-09T10:03:35.576087Z",
+  "updatedAt": "2026-07-09T10:05:29.272316Z",
   "generatedFrom": {
     "source": "remoteSearchIndex",
     "catalogUpdatedAt": null
@@ -2885,6 +2885,93 @@
       ]
     },
     {
+      "id": "franchise:fraktal",
+      "type": "franchise",
+      "title": "Fraktal",
+      "displayTitle": "Fraktal",
+      "subtitle": "1 Reihen",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "mainSeriesId": "series:fraktal",
+      "children": [
+        {
+          "id": "series:fraktal",
+          "title": "Fraktal",
+          "role": "mainSeries",
+          "albumCount": 17
+        }
+      ],
+      "seriesCount": 1,
+      "albumCount": 17,
+      "sources": [
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": null
+        }
+      ]
+    },
+    {
+      "id": "franchise:heliosphere-2265",
+      "type": "franchise",
+      "title": "Heliosphere 2265",
+      "displayTitle": "Heliosphere 2265",
+      "subtitle": "1 Reihen",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "mainSeriesId": "series:heliosphere-2265",
+      "children": [
+        {
+          "id": "series:heliosphere-2265",
+          "title": "Heliosphere 2265",
+          "role": "mainSeries",
+          "albumCount": 31
+        }
+      ],
+      "seriesCount": 1,
+      "albumCount": 31,
+      "sources": [
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": null
+        }
+      ]
+    },
+    {
+      "id": "franchise:infinity",
+      "type": "franchise",
+      "title": "Infinity",
+      "displayTitle": "Infinity",
+      "subtitle": "1 Reihen",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "mainSeriesId": "series:infinity",
+      "children": [
+        {
+          "id": "series:infinity",
+          "title": "Infinity",
+          "role": "mainSeries",
+          "albumCount": 10
+        }
+      ],
+      "seriesCount": 1,
+      "albumCount": 10,
+      "sources": [
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": null
+        }
+      ]
+    },
+    {
       "id": "franchise:mark-brandis",
       "type": "franchise",
       "title": "Mark Brandis",
@@ -2912,6 +2999,35 @@
       ],
       "seriesCount": 2,
       "albumCount": 44,
+      "sources": [
+        {
+          "providerID": "githubCatalog",
+          "displayName": "GitHub Catalog",
+          "externalID": null
+        }
+      ]
+    },
+    {
+      "id": "franchise:neue-welten",
+      "type": "franchise",
+      "title": "Neue Welten",
+      "displayTitle": "Neue Welten",
+      "subtitle": "1 Reihen",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "mainSeriesId": "series:neue-welten",
+      "children": [
+        {
+          "id": "series:neue-welten",
+          "title": "Neue Welten",
+          "role": "mainSeries",
+          "albumCount": 13
+        }
+      ],
+      "seriesCount": 1,
+      "albumCount": 13,
       "sources": [
         {
           "providerID": "githubCatalog",
@@ -3138,6 +3254,46 @@
   ],
   "automationHints": {
     "franchiseCandidates": [
+      {
+        "franchiseID": "franchise:infinity",
+        "title": "Infinity",
+        "mainSeriesId": "series:infinity",
+        "childSeriesIds": [],
+        "aliases": [
+          "Infinity"
+        ],
+        "rejectAsOwnFranchiseIfOnlyOneSeries": false
+      },
+      {
+        "franchiseID": "franchise:neue-welten",
+        "title": "Neue Welten",
+        "mainSeriesId": "series:neue-welten",
+        "childSeriesIds": [],
+        "aliases": [
+          "Neue Welten"
+        ],
+        "rejectAsOwnFranchiseIfOnlyOneSeries": false
+      },
+      {
+        "franchiseID": "franchise:fraktal",
+        "title": "Fraktal",
+        "mainSeriesId": "series:fraktal",
+        "childSeriesIds": [],
+        "aliases": [
+          "Fraktal"
+        ],
+        "rejectAsOwnFranchiseIfOnlyOneSeries": false
+      },
+      {
+        "franchiseID": "franchise:heliosphere-2265",
+        "title": "Heliosphere 2265",
+        "mainSeriesId": "series:heliosphere-2265",
+        "childSeriesIds": [],
+        "aliases": [
+          "Heliosphere 2265"
+        ],
+        "rejectAsOwnFranchiseIfOnlyOneSeries": false
+      },
       {
         "franchiseID": "franchise:mark-brandis",
         "title": "Mark Brandis",
